@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jingkai gao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jingkai gao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jingkai-gao-456a31323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jingkai gao" height="30" width="40" /></a>
 <a href="https://kaggle.com/galaxy gao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="galaxy gao" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/若可以望向远方" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="若可以望向远方" height="30" width="40" /></a>
 </p>
