@@ -18,7 +18,7 @@ I'm currently pursuing a **Master of Science in Data Science** at **Universiti T
 - Received the **Finalist** (F Prize) in the **Mathematical Contest in Modeling & Interdisciplinary Contest In Modeling (MCM/ICM)** organized by COMAP, USA.
 
 ## 🎓 Education
-- Shanxi Institute of Technology, July 2022: B.Eng. GPA: 83.98/100
+- Shanxi Institute of Technology, July 2022 : B.Eng. GPA: 83.98/100
 
 ## 📫 How to Reach Me
 Feel free to connect or collaborate!
