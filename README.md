@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dis-tant&label=Profile%20views&color=0e75b6&style=flat" alt="dis-tant" /> </p>
 
-# Welcome to My World!
+Welcome to My World~
 
 ## 📚 About Me
 I'm currently pursuing a **Master of Science in Data Science** at **Universiti Teknologi Malaysia (UTM)**, where I focus on research design, analytics methodologies, and data-driven problem solving. I firmly believe my ongoing academic journey will further sharpen my skills in academic writing, systematic programming, data management, machine learning, deep learning and artificial intelligence.
