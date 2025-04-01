@@ -1,9 +1,37 @@
-<h1 align="center">Hi 👋, I'm Gao Jingkai</h1>
+<h1 align="center">Hi 👋, I'm 高靖凯 (Gao Jingkai)</h1>
 <h3 align="center">A passionate Large Language Model (LLM) explorer from China</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dis-tant&label=Profile%20views&color=0e75b6&style=flat" alt="dis-tant" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
+
+# Hi there 👋, I'm [Your Name]!
+
+## 📚 About Me
+I'm currently pursuing a **Master of Science in Data Science** at **Universiti Teknologi Malaysia (UTM)**, where I focus on research design, analytics methodologies, and data-driven problem solving. My academic journey has sharpened my skills in systematic literature reviews, qualitative and quantitative research methods, and academic writing.
+
+## 💻 My Skills and Interests
+- **Machine Learning & AI**: I'm passionate about exploring and applying algorithms such as regression, clustering, PCA, factor analysis, and neural networks to real-world problems.
+- **Natural Language Processing (NLP)**: I have a keen interest in large language models, text analysis, and generative AI.
+- **Research & Analytics**: Skilled in constructing research frameworks, problem formulation, and designing rigorous research methodologies.
+
+## 🚀 Achievements
+- Awarded the **First Prize** in the **China Undergraduate Mathematical Contest in Modeling (Shanxi Province)**.
+- Received the **Honorable Mention** (F Prize) in the **Mathematical Contest in Modeling (MCM)** organized by COMAP, USA.
+
+## 🌱 Current Learning
+Currently diving deep into research methodologies, data ethics, and systematic literature review using AI tools.
+
+## 📫 How to Reach Me
+Feel free to connect or collaborate!
+- Email: [Your Email]
+- LinkedIn: [Your LinkedIn]
+
+---
+
+Looking forward to connecting and sharing exciting projects in Data Science and AI!
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
