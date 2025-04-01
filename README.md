@@ -20,10 +20,8 @@ I'm currently pursuing a **Master of Science in Data Science** at **Universiti T
 ## 🎓 Education
 - **Shanxi Institute of Technology, July 2022 : B.Eng. GPA: 83.98/100**
   - shikeshigejinxe jskagoa  sdfjal
- 
-- **Prompt Engineering:**  
-  - Created detailed prompts to optimize AI model responses.  
-  - Tested various prompt structures to improve output relevance and accuracy.
+- **Shanxi Institute of Technology, July 2022 : B.Eng. GPA: 83.98/100**
+  - shikeshigejinxe jskagoa  sdfjal
 
 ## 📫 How to Reach Me
 Feel free to connect or collaborate!
