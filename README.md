@@ -19,9 +19,10 @@ I'm currently pursuing a **Master of Science in Data Science** at **Universiti T
 
 ## 🎓 Education
 - **Shanxi Institute of Technology, July 2022 : B.Eng. GPA: 83.98/100**
-  - shikeshigejinxe jskagoa  sdfjal
+  - shikeshigejinxe jskagoa  sdfjal.
+ 
 - **Shanxi Institute of Technology, July 2022 : B.Eng. GPA: 83.98/100**
-  - shikeshigejinxe jskagoa  sdfjal
+  - shikeshigejinxe jskagoa  sdfjal.
 
 ## 📫 How to Reach Me
 Feel free to connect or collaborate!
